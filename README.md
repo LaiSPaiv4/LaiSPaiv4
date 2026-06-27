@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://openclipart.org/image/400px/171549" alt="Cute Penguin"/>
+  <img align="center" height="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Cute Penguin"/>
 </div>
 
 <div align="center">
