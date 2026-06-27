@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=1,12,20&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=007acc&secondaryColor=0052a3&section=header"/>
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
   <br>
-  <b>`Waddling my way through code! 🐧`</b>
+  <b>Waddling my way through code! 🐧</b>
   <samp>
       <br>
       Hi there! I'm <b>Lais Paiva</b>
@@ -20,16 +20,10 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/lais_🐧-007acc" />
-</div>
-      
-<br>
 <br>
       
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LaiSPaiv4&rank_icon=github&show_icons=true&theme=tokyonight&count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LaiSPaiv4&show_icons=true&theme=tokyonight&count_private=true">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiSPaiv4&layout=compact&theme=tokyonight&count_private=true">
 </div>
 
@@ -68,7 +62,7 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:laisrenata340@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/laisrenata/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&theme=dark&logoColor=fff)](https://www.linkedin.com/in/laisrenata/)
   [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_.layspaivaa/)
   
 </div>
@@ -86,4 +80,4 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=1,12,20&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=007acc&secondaryColor=0052a3&section=footer"/>
