@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0f172a&secondaryColor=1e3a8a&section=header"/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0f172a&text=Welcome%20to%20my%20Iceberg%20❄️&fontSize=40&fontColor=38bdf8" alt="Banner Iceberg"/>
+  <img width="100%" src="https://i.pinimg.com/1200x/6c/d4/67/6cd4670b03cd6c52d3054a5138cf45e3.jpg"/>
 </div>
 
 <br>
@@ -17,7 +17,7 @@
 ## 🐧 Hey there! I'm Lais Paiva
 
 <p align="center">
-  <img height="140" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Cute Penguin"/>
+  <img height="140" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNuZnNtbmloaDA2cHEzZXppM2VwZ3V0anNucTJlZmNzYjExZDY1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZdxYNfcsthnk6HDk5h/giphy.gif"/>
 </p>
 
 <div align="center">
