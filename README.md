@@ -14,7 +14,7 @@
 
 ---
 
-## 🐧 Hey there! I'm Lais Paiva
+# 🐧 Hey there! I'm Lais Paiva
 
 <p align="center">
   <img height="140" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNuZnNtbmloaDA2cHEzZXppM2VwZ3V0anNucTJlZmNzYjExZDY1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZdxYNfcsthnk6HDk5h/giphy.gif"/>
@@ -44,15 +44,6 @@
 </div>
 
 ---
-
-### 📊 My Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LaiSPaiv4&show_icons=true&theme=tokyonight&count_private=true&bg_color=0f172a&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiSPaiv4&layout=compact&theme=tokyonight&count_private=true&bg_color=0f172a&hide_border=true" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LaiSPaiv4&style=flat-square&color=38bdf8" alt="Views"/>
