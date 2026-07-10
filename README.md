@@ -1,83 +1,62 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=007acc&secondaryColor=0052a3&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0f172a&secondaryColor=1e3a8a&section=header"/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0f172a&text=Welcome%20to%20my%20Iceberg%20❄️&fontSize=40&fontColor=38bdf8" alt="Banner Iceberg"/>
+</div>
 
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Cute Penguin"/>
+  <a href="mailto:laisrenata340@gmail.com"><img src="https://img.shields.io/badge/GMAIL-dd4b40?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/laisrenata/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/_.layspaivaa/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
-<div align="center">
-  <br>
-  <b>Waddling my way through code! 🐧</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Lais Paiva</b>
-  </samp>
-</div>
+---
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF0055&width=900&size=22&center=true&lines=I'm+a+Web+Developer;Building+projects+with+Python+and+JavaScript;Currently+learning+Java;Looking+for+opportunities+to+grow!;Welcome+to+my+iceberg!" alt="Typing SVG"/>
-</div>
+## 🐧 Hey there! I'm Lais Paiva
 
-<br>
-<br>
+<table align="center" width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h3><b>Web Developer & Tech Enthusiast</b></h3>
+      <p>Waddling my way through code and building cool things with <b>Python</b> and <b>JavaScript</b>! 🚀</p>
       
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LaiSPaiv4&show_icons=true&theme=tokyonight&count_private=true">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiSPaiv4&layout=compact&theme=tokyonight&count_private=true">
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git">
-</div>
-
-<br>
-<br>
-
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-<br>
-
-##
-
-<br>
+      * ❄️ **Currently learning:** Java & Advanced Backend Concepts.
+      * 🏂 **Focusing energy on:** Creating responsive web applications and mastering automation.
+      * 🌊 **Looking for:** Opportunities to grow, collaborate, and freeze bugs out of existence!
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img height="140" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Cute Penguin"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:laisrenata340@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&theme=dark&logoColor=fff)](https://www.linkedin.com/in/laisrenata/)
-  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_.layspaivaa/)
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=38bdf8&width=500&size=18&center=true&lines=Python+and+JavaScript+Developer;Always+learning+something+new...;Welcome+to+my+iceberg!" alt="Typing SVG"/>
 </div>
-<br>
 
-</details>
+---
 
-##
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,git" />
+</div>
+
+---
+
+### 📊 My Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LaiSPaiv4&show_icons=true&theme=tokyonight&count_private=true&bg_color=0f172a&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiSPaiv4&layout=compact&theme=tokyonight&count_private=true&bg_color=0f172a&hide_border=true" />
+</div>
 
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=LaiSPaiv4&style=flat-square&color=007acc" /></p> 
+  <img src="https://komarev.com/ghpvc/?username=LaiSPaiv4&style=flat-square&color=38bdf8" alt="Views"/>
 </div>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=007acc&secondaryColor=0052a3&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0f172a&secondaryColor=1e3a8a&section=footer"/>
