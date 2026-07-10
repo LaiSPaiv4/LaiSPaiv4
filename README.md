@@ -16,21 +16,20 @@
 
 ## 🐧 Hey there! I'm Lais Paiva
 
-<table align="center" width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <h3><b>Web Developer & Tech Enthusiast</b></h3>
-      <p>Waddling my way through code and building cool things with <b>Python</b> and <b>JavaScript</b>! 🚀</p>
-      
-      * ❄️ **Currently learning:** Java & Advanced Backend Concepts.
-      * 🏂 **Focusing energy on:** Creating responsive web applications and mastering automation.
-      * 🌊 **Looking for:** Opportunities to grow, collaborate, and freeze bugs out of existence!
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img height="140" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Cute Penguin"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="140" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Cute Penguin"/>
+</p>
+
+<div align="center">
+  <h3><b>Web Developer & Tech Enthusiast</b></h3>
+  <p>Waddling my way through code and building cool things with <b>Python</b> and <b>JavaScript</b>! 🚀</p>
+</div>
+
+* ❄️ **Currently learning:** Java & Advanced Backend Concepts.
+* 🏂 **Focusing energy on:** Creating responsive web applications and mastering automation.
+* 🌊 **Looking for:** Opportunities to grow, collaborate, and freeze bugs out of existence!
+
+<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=38bdf8&width=500&size=18&center=true&lines=Python+and+JavaScript+Developer;Always+learning+something+new...;Welcome+to+my+iceberg!" alt="Typing SVG"/>
