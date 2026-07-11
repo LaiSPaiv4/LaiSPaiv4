@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0f172a&secondaryColor=1e3a8a&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0066cc&secondaryColor=33ccff&section=header"/>
 
 <div align="center">
   <img width="100%" src="https://i.pinimg.com/1200x/6c/d4/67/6cd4670b03cd6c52d3054a5138cf45e3.jpg"/>
@@ -49,4 +49,4 @@
   <img src="https://komarev.com/ghpvc/?username=LaiSPaiv4&style=flat-square&color=38bdf8" alt="Views"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0f172a&secondaryColor=1e3a8a&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0066cc&secondaryColor=33ccff&section=header"/>
