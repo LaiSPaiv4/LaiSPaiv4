@@ -49,4 +49,4 @@
   <img src="https://komarev.com/ghpvc/?username=LaiSPaiv4&style=flat-square&color=38bdf8" alt="Views"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0066cc&secondaryColor=33ccff&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0066cc&secondaryColor=33ccff&section=footer"/>
